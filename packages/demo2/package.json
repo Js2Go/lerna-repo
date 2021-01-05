@@ -1,0 +1,12 @@
+{
+  "name": "@mazi/demo2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "@mazi/demo1": "^2.0.0"
+  }
+}
